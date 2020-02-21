@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">SimpleWidgetVolume</string>
+    <string name="app_name">SWV</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="main_tv">Close this activity. Install the widget Press the speaker icon Be free!</string>
+    <string name="speakerIVcontent_desc">Speaker image next to notifications seek bar</string>
+    <string name="musicIVcontent_desc">Music image next to music seek bar</string>
+    <string name="alarmIVcontent_desc">Alarm clock image next to alarm seek bar</string>
+    <string name="phoneIVcontent_desc">Phone image next to phone seek bar</string>
 </resources>
